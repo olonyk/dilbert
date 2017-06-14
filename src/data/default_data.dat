@@ -1,0 +1,73 @@
+DEFAULT_ACTION = /repeat.dat
+
+<exit>
+KEYWORDS = {QUIT STOP END GOODBY GOOD BY GOODBYE GOOD BYE}
+ACTIONFILE = /exit.dat
+</exit>
+
+<WORK>
+KEYWORDS = {EXPERIENCE WHY DO YOU WANT TO WORK HERE}
+ACTIONFILE = /work.dat
+</WORK>
+
+<COURSES>
+KEYWORDS = {COURSES}
+ACTIONFILE = /courses.dat
+</COURSES>
+
+<JOKE>
+KEYWORDS = {JOKE FUNNY}
+ACTIONFILE = /joke.dat
+</JOKE>
+
+<ABOUT>
+KEYWORDS = {Tell me about yourself}
+ACTIONFILE = /about.dat
+</ABOUT>
+
+<whyyou>
+KEYWORDS = {Why Should We Hire You}
+ACTIONFILE = /whyyou.dat
+</whyyou>
+
+<Strength>
+KEYWORDS = {What is Your Greatest strength}
+ACTIONFILE = /strength.dat
+</Strength>
+
+<weakness>
+KEYWORDS = {What is your greatest weakness}
+ACTIONFILE = /weakness.dat
+</weakness>
+
+<whyleaving>
+KEYWORDS = {Why are you leaving or have left your job}
+ACTIONFILE = /whyleaving.dat
+</whyleaving>
+
+<whythis>
+KEYWORDS = {Why do you want this job}
+ACTIONFILE = /whythis.dat
+</whythis>
+
+<stress>
+KEYWORDS = {How do you handle stress and pressure}
+ACTIONFILE = /stress.dat
+</stress>
+
+<difficultwork>
+KEYWORDS = {Describe a difficult work situation / project and how you overcame it}
+ACTIONFILE = /difficultwork.dat
+</difficultwork>
+
+<goals>
+KEYWORDS = {What are your goals for the future}
+ACTIONFILE = /goals.dat
+</goals>
+
+<fiveyearsfromnow>
+KEYWORDS = {Where do you see yourself five years from now}
+ACTIONFILE = /fiveyearsfromnow.dat
+</fiveyearsfromnow>
+
+
